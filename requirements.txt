@@ -6,3 +6,6 @@ numpy
 ipyleaflet
 ipywidgets
 seaborn
+regex
+geopy
+copy
